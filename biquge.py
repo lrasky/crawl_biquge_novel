@@ -2,8 +2,8 @@ from selenium import webdriver
 import requests
 from lxml import etree
 # def chrome_drive():
-# note_name = input('请输入书名:')
-note_name = '大主宰'
+note_name = input('请输入书名:')
+# note_name = '大主宰'
 # driver = webdriver.Chrome()
 # data = {
 #     'searchkey': '大主宰'
